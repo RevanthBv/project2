@@ -1,1 +1,9 @@
-Modifield this file Testing 1
+As a WordPress developer, whenever you build a new theme, plugin or even if you are testing out new features of WordPress that you might not be familiar with. There’s one task that get’s extremely repetitive, cumbersome and mundane.
+
+You will always need to create some custom dummy data to test whether your plugin is working as expected, and as developers ourselves we have had this problem quite a lot. Thankfully, there are easy ways to solve it.
+
+The usual way people tend to do this is either hire someone on Fiverr, to create all this dummy text or as a WordPress developer you’ll need to perform the task of filling up an empty theme with dummy content yourself.
+
+Our goal with this post is to help you to alleviate this time-consuming aspect of the development process by covering a list of plugins that help you achieve this goal in just a matter of seconds.
+
+Not only does the test data have to be comprehensive enough to capture all the possible post scenarios, it has to be as close enough as possible to real world data. This way you can effectively test the features you are building and luckily, these plugins do just that.
